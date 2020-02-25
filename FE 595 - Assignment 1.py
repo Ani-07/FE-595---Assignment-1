@@ -16,7 +16,5 @@ def sincosplot():
     plt.axhline(y=0)
     return plt.show()
 
-sincosplot()
-
 if __name__ == "__main__":
     sincosplot()
